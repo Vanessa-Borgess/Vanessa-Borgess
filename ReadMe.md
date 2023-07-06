@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Engenharia de Software e apaixonado por desenvolvimento web.
+Estudante de Engenharia de Software e apaixonada por desenvolvimento web.
 
 
 # 💻 Tech Stack:
